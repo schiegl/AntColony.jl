@@ -1,0 +1,4 @@
+name = "AntColony.jl"
+uuid = "75b11117-7252-40c0-b375-554c734de600"
+authors = ["Adrian Schiegl <schiegl.adrian@gmail.com>"]
+version = "0.1.0"
