@@ -1,7 +1,5 @@
 using Test
-
-include("../src/AntColony.jl")
-using .AntColony: aco, travel
+using AntColony: aco, travel
 
 
 @testset "Travel a specific path" begin
