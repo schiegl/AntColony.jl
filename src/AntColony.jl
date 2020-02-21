@@ -41,7 +41,7 @@ julia> aco(distances, is_tour = true)
  5
  1
  2
-````
+```
 
 ## Find a path
 Finda a specific path from node 1 to node 5
@@ -55,7 +55,7 @@ julia> aco(distances, start_node = 1, end_node = 5)
  4
  3
  5
-````
+```
 """
 function aco(
         dist_mat::AbstractMatrix{<:Number};
