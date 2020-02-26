@@ -1,7 +1,7 @@
 name = "AntColony"
 uuid = "75b11117-7252-40c0-b375-554c734de600"
 authors = ["Adrian Schiegl <schiegl.adrian@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
